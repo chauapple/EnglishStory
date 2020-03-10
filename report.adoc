@@ -221,7 +221,7 @@ image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/63414
 This section show detail review and rating from client.
 
 -- 
-[cols="7%,93%", frame="none", grid="rows", stripes="none"] 
+[cols="15%,85%", frame="none", grid="rows", stripes="none"] 
 |=== 
 ^|image:https://lh3.googleusercontent.com/-dRvdjqq54qU/AAAAAAAAAAI/AAAAAAAAAAA/vm5xuY7pddo/c-rp-mo-ba3-br100/photo.jpg[width="40"] 
 <|พล.ต.อ.ณัฐวุฒิ ขาวบาง 
