@@ -254,7 +254,7 @@ Compare summary review with list competitor
 
 ====
 [.text-center]
-image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/634148135/2020-02-01;-;2020-02-28/image/invertedChartReviewCompetitor.png[] + 
+image:https://local-public-resource.s3-ap-northeast-1.amazonaws.com/report/634148135/2020-02-01;-;2020-02-28/image/invertedChartReviewCompetitor.png[width="500"] + 
 ====
 
 [.text-center]
